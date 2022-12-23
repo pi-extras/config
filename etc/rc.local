@@ -1,5 +1,0 @@
-#!/bin/bash
-# File: /etc/rc.local
-# Execute: chmod +x /etc/rc.local
-caddy file-server --root /root/pi-extras --browse &
-exit 0
