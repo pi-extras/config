@@ -1,0 +1,5 @@
+:80 {
+root * /root/pi-extras
+file_server {
+  browse /etc/caddy/browse.html
+}
